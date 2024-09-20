@@ -6,7 +6,7 @@
 #include "script.h"
 
 #include "configmanager.h"
-
+#include <fmt/ranges.h>
 #include <fmt/color.h>
 
 extern LuaEnvironment g_luaEnvironment;
